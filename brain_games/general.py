@@ -19,4 +19,4 @@ def general(play):
             print(f"Let's try again, {name}!")
             break
     else:
-        print(f'Congritulations, {name}!')
+        print(f'Congratulations, {name}!')
