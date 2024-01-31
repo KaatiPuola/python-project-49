@@ -4,8 +4,28 @@
 [![Actions Status](https://github.com/KaatiPuola/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/KaatiPuola/python-project-49/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/3116ca15b6d7128324f2/maintainability)](https://codeclimate.com/github/KaatiPuola/python-project-49/maintainability)
 
+## Description
 ### Brain Games consist of 5 mini-games related to simple math.
-### The results of the work are given in the questionnaires below:
+---
+## Required version
+### Python
+3.10.12
+### Poetry
+1.7.1
+
+## Install
+```
+git clone https://github.com/KaatiPuola/python-project-49.git
+cd python-project-49
+```
+## Usage
+*Even number: `brain-even`
+*Calculate the expression: `brain-calc`
+*Greatest common divisor: `brain-gcd`
+*Guess missing number: `brain-progression`
+*Prime number: `brain-prime`
+
+## Description:
 
 ### Game 1: even 
 [![asciicast](https://asciinema.org/a/8PP4mqd2jUadj5py2BvFqhwgX.svg)](https://asciinema.org/a/8PP4mqd2jUadj5py2BvFqhwgX)
