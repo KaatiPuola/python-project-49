@@ -10,7 +10,7 @@ build:
 publish:
 	poetry publish --dry-run
 
-package-reinstall:
+package-install:
 	pip install --user --force-reinstall dist/*.whl
 
 lint:
