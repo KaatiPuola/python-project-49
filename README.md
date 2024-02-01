@@ -8,8 +8,8 @@
 ### Brain Games consist of 5 mini-games related to simple math.
 ---
 ## Required version
-python = "3.10.12"
-poetry = "1.7.1"
+python = "3.10.12" \
+poetry = "1.7.1" \
 prompt = "^0.4.1"
 
 ## Install
@@ -22,14 +22,14 @@ cd python-project-49
 ```make install``` to install poetry packages. \
 ```make build``` to build packages inside project. \
 ```make publish``` the command to publish. \
-```make package-install``` to install the built package and to start using simple shell commands. \
+```make package-install``` to install the built package and to start using simple shell commands. 
 
 ## Usage
 *Even number: `brain-even` \
 *Calculate the expression: `brain-calc` \
 *Greatest common divisor: `brain-gcd` \
 *Guess missing number: `brain-progression` \
-*Prime number: `brain-prime` \
+*Prime number: `brain-prime` 
 
 ## Description:
 
