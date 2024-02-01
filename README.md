@@ -34,17 +34,17 @@ cd python-project-49
 ## Description:
 
 ### Game 1: Even number 
-[![asciicast](https://asciinema.org/a/8PP4mqd2jUadj5py2BvFqhwgX.svg)](https://asciinema.org/a/8PP4mqd2jUadj5py2BvFqhwgX)
+[![asciicast](https://asciinema.org/a/chmrtK5sn6GA6YwEecHRWiQDp.svg)](https://asciinema.org/a/chmrtK5sn6GA6YwEecHRWiQDp)
 
 ### Game 2: Calculate the expression
-[![asciicast](https://asciinema.org/a/G0fEK18dpjBJ2RHToxB9xfVp6.svg)](https://asciinema.org/a/G0fEK18dpjBJ2RHToxB9xfVp6)
+[![asciicast](https://asciinema.org/a/4qoXv1vlQOTtyS1tknxF6J82f.svg)](https://asciinema.org/a/4qoXv1vlQOTtyS1tknxF6J82f)
 
 ### Game 3: Greatest common divisor
-[![asciicast](https://asciinema.org/a/7dhCKYUwtqMGDnt66ONPHx43t.svg)](https://asciinema.org/a/7dhCKYUwtqMGDnt66ONPHx43t)
+[![asciicast](https://asciinema.org/a/JSDdPlLn3H5jySvEVImUAF2hw.svg)](https://asciinema.org/a/JSDdPlLn3H5jySvEVImUAF2hw)
 
 ### Game 4: Guess missing number
-[![asciicast](https://asciinema.org/a/9vtFL4kk4n6jt0TgxCoRAYs5g.svg)](https://asciinema.org/a/9vtFL4kk4n6jt0TgxCoRAYs5g)
+[![asciicast](https://asciinema.org/a/dMx5VxgFMNnQmlBDoNxNNRmyz.svg)](https://asciinema.org/a/dMx5VxgFMNnQmlBDoNxNNRmyz)
 
 ### Game 5: Prime number
-[![asciicast](https://asciinema.org/a/YV7eAsQ84xNVr1YzO5wBVIsRD.svg)](https://asciinema.org/a/YV7eAsQ84xNVr1YzO5wBVIsRD)
+[![asciicast](https://asciinema.org/a/oc9J7Fa3RLnjwhwCJcIx4BBOs.svg)](https://asciinema.org/a/oc9J7Fa3RLnjwhwCJcIx4BBOs)
 
