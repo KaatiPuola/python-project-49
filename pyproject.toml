@@ -8,6 +8,7 @@ repository = "https://github.com/KaatiPuola/python-project-49"
 classifiers = [
     "Programming Language :: Python :: 3",
     "Topic :: Games/Entertainment"
+]
 packages = [
   { include = "brain_games" },
 ]
