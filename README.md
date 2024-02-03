@@ -5,7 +5,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/3116ca15b6d7128324f2/maintainability)](https://codeclimate.com/github/KaatiPuola/python-project-49/maintainability)
 
 ## Description
-### Brain Games consist of 5 mini-games related to simple math.
+Brain Games consist of 5 mini-games related to simple math.
 ---
 ## Required version
 python = "3.10.12" \
