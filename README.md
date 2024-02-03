@@ -6,7 +6,7 @@
 
 ## Description
 Brain Games consist of 5 mini-games related to simple math.
----
+
 ## Required version
 python = "3.10.12" \
 poetry = "1.7.1" \
