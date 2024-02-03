@@ -3,7 +3,7 @@ import math
 RULE = 'Find the greatest common divisor of given numbers.'
 
 
-def play_game():
+def generate_data():
     number1 = randint(1, 100)
     number2 = randint(1, 100)
     question = f'{number1} {number2}'
