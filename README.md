@@ -31,7 +31,7 @@ cd python-project-49
 *Guess missing number: `brain-progression` \
 *Prime number: `brain-prime` 
 
-## Description:
+## Demonsration:
 
 ### Game 1: Even number 
 [![asciicast](https://asciinema.org/a/chmrtK5sn6GA6YwEecHRWiQDp.svg)](https://asciinema.org/a/chmrtK5sn6GA6YwEecHRWiQDp)
