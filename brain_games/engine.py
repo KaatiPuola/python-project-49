@@ -8,7 +8,7 @@ def run_game(game):
     print(f'Hello, {name}!')
     print(game.RULE)
     for _ in range(ROUNDS_COUNT):
-        question, right_answer = game.play_game()
+        question, right_answer = game.generate_data()
         print(f"Question: {question}")
         answer = prompt.string('Your answer: ')
         if right_answer == answer:
